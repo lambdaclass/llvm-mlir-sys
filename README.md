@@ -1,5 +1,5 @@
 # llvm-mlir-sys
-Rust bindings for the MLIR C Api
+Rust bindings for the MLIR C API
 
 ## mlir-c headers doxygen
 
