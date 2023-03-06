@@ -17,6 +17,5 @@ mod tests {
 
             mlirContextDestroy(context);
         };
-
     }
 }
